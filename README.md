@@ -8,4 +8,6 @@
 - [An Awesome list for CP from CodeForces](http://codeforces.com/blog/entry/23054)
 - [DS and Algo code in Java from CodeLibrary](http://code-library.herokuapp.com/binary-search-tree/java)
 - [Code Library in Guthub](https://github.com/indy256/codelibrary/blob/master/java/strings/Kmp.java)
+- [Must known Algorithm for online programming contests from CodeChef](https://discuss.codechef.com/questions/18752/what-are-the-must-known-algorithms-for-online-programming-contests)
+
 
