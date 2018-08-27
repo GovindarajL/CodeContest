@@ -1,6 +1,6 @@
 # CodeContest
 
-- [commonlounge.com useful for learning datasturctures and algorithms and about competitive programming] (https://www.commonlounge.com/)
+- [commonlounge.com useful for learning datasturctures and algorithms and about competitive programming](https://www.commonlounge.com/)
 - [Very Useful Competitive Programming Resources from Common Lounge](https://www.commonlounge.com/discussion/da2585a55eaf440b9fe9a311ab0b74dc)
 - [ICPC resource in GitHUB](https://github.com/nikhiljangam/Competitive-programming-resources)
 - [Good CodeForces blog on DS and Algo resources](http://codeforces.com/blog/entry/13529)
