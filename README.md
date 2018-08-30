@@ -25,4 +25,10 @@ Also look on this
 - [Code Library in Guthub](https://github.com/indy256/codelibrary/blob/master/java/strings/Kmp.java)
 - [Must known Algorithm for online programming contests from CodeChef](https://discuss.codechef.com/questions/18752/what-are-the-must-known-algorithms-for-online-programming-contests)
 
-
+For Algorithms:-
+1. practice in GFG
+2. practice Hackerearth
+3. codechef 87 algorithm
+4. leetcode
+5. Hackerrank
+6. SPOJ
