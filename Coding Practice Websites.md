@@ -22,6 +22,8 @@ Regardless, I participated in all possible contests on available platforms.
 
 Participate in all, practice on one or two!
 
+Ref:- https://www.quora.com/How-do-I-prepare-for-interviewing-with-Google-Facebook-or-Amazon-while-having-a-full-time-job-as-a-software-engineer/answer/Taejun-TJ-Lee?share=2bbab109&srid=iJ0a
+
 Your preparation for ALL of the algorithms questions can be covered by LeetCode.com. LeetCode really is, your one-stop shop to preparing for the algorithms questions. I solved the first 175 LeetCode questions to prepare for my interviews — and I did very well on the interviews. You won’t need to solve as many as I did— I was over-prepared if anything. If you complete 100, you’ll be very solid. Don’t skip the ‘hard’ ones to only do the ‘easy’ and ‘mediums’. Do them all.
 
 I highly recommend investing in a whiteboard. Coding on a whiteboard is nothing like coding on a text editor. Rectifying a mistake, or changing your mind on the approach of your solution, on a text editor is completely fine; doing the same on a whiteboard is completely unforgiving. You should get used to coming up with short, but somewhat descriptive, variable names (writing long words over and over on a whiteboard is not only tiring/slow, but also makes you run out of space real fast). Get used to your shoulder/arm being tired for holding it up for so long while writing on a whiteboard. Gain good judgment on how much space/room you need to implement some functionality; sometimes you want to jump around implementing different parts at different times, and having the spacing correct can be really clutch here.
