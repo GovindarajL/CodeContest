@@ -22,3 +22,15 @@ Regardless, I participated in all possible contests on available platforms.
 
 Participate in all, practice on one or two!
 
+Your preparation for ALL of the algorithms questions can be covered by LeetCode.com. LeetCode really is, your one-stop shop to preparing for the algorithms questions. I solved the first 175 LeetCode questions to prepare for my interviews — and I did very well on the interviews. You won’t need to solve as many as I did— I was over-prepared if anything. If you complete 100, you’ll be very solid. Don’t skip the ‘hard’ ones to only do the ‘easy’ and ‘mediums’. Do them all.
+
+I highly recommend investing in a whiteboard. Coding on a whiteboard is nothing like coding on a text editor. Rectifying a mistake, or changing your mind on the approach of your solution, on a text editor is completely fine; doing the same on a whiteboard is completely unforgiving. You should get used to coming up with short, but somewhat descriptive, variable names (writing long words over and over on a whiteboard is not only tiring/slow, but also makes you run out of space real fast). Get used to your shoulder/arm being tired for holding it up for so long while writing on a whiteboard. Gain good judgment on how much space/room you need to implement some functionality; sometimes you want to jump around implementing different parts at different times, and having the spacing correct can be really clutch here.
+
+When I was preparing, I’d read the question off of LeetCode and I’d try to implement it on a whiteboard. When I’d convince myself that I had a working solution on the whiteboard, I’d copy my solution into LeetCode’s text editor and submitted the solution to see if I passed all of their crazy performance requirements. If I only passed the correctness tests, but not the performance tests, I’d rethink my approach and start the question from scratch on the whiteboard. And then repeat, until all of my LeetCode tests passed.
+
+During my more intense weeks, my preparation schedule looked something like this:
+
+Solve one LeetCode ‘medium’ problem in the morning before going to work. Or two ‘easies’. I never was able to solve a ‘hard’ problem in the morning.
+Solve two LeetCode ‘mediums’ after work, or one ‘hard’. One LeetCode ‘hard’ takes a LOT longer than two ‘mediums’ combined FYI — but it’s just the rule I came up with myself.
+Solve ~15–30 LeetCode questions (mixture of all three difficulties) on a weekend.
+I started preparing for interviews about a month before my technical phone screens. I scheduled all six of my onsites about a month after my phone screens. It was a tough two months, but it left me super prepared.
